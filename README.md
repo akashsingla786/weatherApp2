@@ -1,5 +1,4 @@
-# weatherApp2<br><hr>
-https://akashsingla786.github.io/weatherApp2/hr.style-seven {
+# weatherApp2<br><hr hr.style-seven {
     overflow: visible; /* For IE */
     height: 30px;
     border-style: solid;
@@ -16,4 +15,5 @@ hr.style-seven:before { /* Not really supposed to work, but does */
     border-color: black;
     border-width: 0 0 1px 0;
     border-radius: 20px;
-}
+}>
+https://akashsingla786.github.io/weatherApp2/
