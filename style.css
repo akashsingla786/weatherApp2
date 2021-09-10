@@ -1,0 +1,62 @@
+
+html{
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-image: url(images/clearsky.jpg);
+    
+  background-size:cover;
+    
+  background-repeat: no-repeat;
+    /* border: 2px solid red; */
+    height: 100%;
+    width: 100%;
+
+}
+#heading{
+    text-align: center;
+}
+#container{
+    /* border: 2px solid black; */
+/* margin:10% auto; */
+width: 100%;
+height: 100%;
+text-align: center;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+#inp{
+    font-size: 20px;
+    text-align: center;
+    border-radius: 30px;
+    background-color: #ffcdb2 ;
+    width: 280px;
+   
+}
+#btn{
+    font-size: 20px;
+    width: 280px;
+    border-radius: 30px;
+    background-color: lightsalmon;
+    color: black;
+    
+}
+#information{
+    margin:10px;
+}
+p{
+    font-weight: 600;
+    font-size:large;
+}
+
+#inp:focus{
+    outline: none;
+    background-color: #ffb4a2;
+    color: black;
+}
+h3,h2,h4,p{
+    color:whitesmoke;
+    /* opacity: 0.68; */
+}
